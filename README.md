@@ -1,2 +1,1 @@
-# TPUTestnetLabDevX
-Advanced TPUTestnetLabDevX project
+.
